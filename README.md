@@ -1,5 +1,7 @@
 # LunchMoney MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@QueenCityTiger/lunchmoney-mcp)](https://smithery.ai/server/@QueenCityTiger/lunchmoney-mcp)
+
 A Model Context Protocol (MCP) server implementation for [LunchMoney](https://lunchmoney.app/), providing programmatic access to personal finance management through LunchMoney's API.
 
 ## Overview
